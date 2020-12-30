@@ -1,2 +1,2 @@
 # Algorithms
-Useful popular algorithms implemented by me.
+Useful popular algorithms implementions
